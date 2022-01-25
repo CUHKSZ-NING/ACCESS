@@ -1,3 +1,3 @@
-# ACCESS
+# SPESS
 
-* ACCESS: Adaptive Confidence and Contribution based Evolutionary Semi-Stacking for Imbalanced Semi-Supervised Learning
+* SPESS: Self-Paced Evolutionary Semi-Stacking Framework for Imbalanced Semi-Supervised Learning
