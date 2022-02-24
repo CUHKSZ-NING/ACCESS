@@ -1,6 +1,6 @@
 # Self-adaptive stacking ensemble
 
-* Self-adaptive stacking ensemble using genetic algorithm for imbalanced semi-supervised learning
+* Self-adaptive stacking ensemble using genetic algorithm for imbalanced semi-supervised learning.
 
 * Required Python 3 packages: 
     1. sklearn (https://github.com/scikit-learn/scikit-learn)
