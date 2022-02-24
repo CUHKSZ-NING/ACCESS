@@ -13,4 +13,4 @@
 
 * Train: `fit(X, y)`, with target `-1` as the unlabeled data, `0` as the majority class, and `1` as the minority class.
 
-* Predict: `predict(X)` (hard prediction) or `predict_proba(X)` (soft prediction).
+* Predict: `predict(X)` (hard predictions) or `predict_proba(X)` (soft predictions).
