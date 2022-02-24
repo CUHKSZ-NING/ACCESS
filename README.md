@@ -9,10 +9,8 @@
 
 * BESS is compatible with most sklearn APIs but is not strictly tested.
 
-* Run: `python3 main.py`
-
-* Import: `from BalancedEvolutionarySemiStacking import BalancedEvolutionarySemiStacking`
+* Import: `from SASE import SelfAdaptiveStackingEnsemble`
 
 * Train: `fit(X, y)`, with target `-1` as the unlabeled data, `0` as the majority class, and `1` as the minority class.
 
-* Predict: `predict(X)` or `predict_proba(X)`
+* Predict: `predict(X)` (hard prediction) or `predict_proba(X)` (soft prediction).
